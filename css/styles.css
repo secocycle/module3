@@ -1,0 +1,28 @@
+@media (max-width: 576px) {
+	#menu1{visibility: visible;}
+}
+@media (min-width: 576px) {
+	#menu1{display: none;}
+}
+
+@media (max-width: 576px) {
+	#button{visibility: visible;}
+}
+@media (min-width: 576px) {
+	#button{display: none;}
+}
+
+body {
+	fomt-size:18px;
+}
+#mainpage{height: 1000px;
+background-color: grey;}
+
+
+h1{
+	text-weight: bold;
+	text-align: center;
+	margin-top: 30px
+}
+
+h2{text-align: center;}
